@@ -1,8 +1,7 @@
-### Olá, eu sou o Lucas Roger
+### Olá, eu sou Lucas Roger
 
 - 🔭 Hoje trabalho como fullstack
 - 🌱 Estudando Django/android
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
